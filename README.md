@@ -31,8 +31,19 @@ A collection of awesome things regarding the React ecosystem.
   - [React Native Libraries](#react-native-libraries)
 - [Contribution](#contribution)
 
+<!-- HIGH-LEVEL AUDIT: React Section
+Last Audited: 2025-12-25
+Status: Active
+Scope: All React-related resources and subsections
+-->
+
 ### React
 
+<!-- LOW-LEVEL AUDIT: React General Resources
+Last Audited: 2025-12-25
+Status: Verified
+Items: 5
+-->
 #### React General Resources
 
 - [React Official Website](https://react.dev/)
@@ -42,6 +53,11 @@ A collection of awesome things regarding the React ecosystem.
 - [React Conferences](https://react.dev/community/conferences)
 - [React CodeSandbox Playground](https://codesandbox.io/s/new)
 
+<!-- LOW-LEVEL AUDIT: React Tutorials
+Last Audited: 2025-12-25
+Status: Verified
+Items: 6
+-->
 #### React Tutorials
 
 - [React Official Tutorial](https://react.dev/learn)
@@ -51,6 +67,11 @@ A collection of awesome things regarding the React ecosystem.
 - [A simple, scalable, and powerful architecture for building production ready React applications](https://github.com/alan2207/bulletproof-react)
 - [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
+<!-- LOW-LEVEL AUDIT: React Frameworks
+Last Audited: 2025-12-25
+Status: Verified
+Items: 6
+-->
 #### React Frameworks
 
 - [next](https://github.com/vercel/next.js) - The React Framework
@@ -60,6 +81,11 @@ A collection of awesome things regarding the React ecosystem.
 - [refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
 - [vike](https://github.com/vikejs/vike) - The Modular Framework - Next.js & Nuxt alternative
 
+<!-- LOW-LEVEL AUDIT: React Component Libraries
+Last Audited: 2025-12-25
+Status: Verified
+Items: 14
+-->
 #### React Component Libraries
 
 - [shadcn-ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
@@ -77,6 +103,11 @@ A collection of awesome things regarding the React ecosystem.
 - [headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
 - [ruixen-ui](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
 
+<!-- LOW-LEVEL AUDIT: React State Management and Data Fetching
+Last Audited: 2025-12-25
+Status: Verified
+Items: 13
+-->
 #### React State Management and Data Fetching
 
 - [redux](https://github.com/reduxjs/redux) - Predictable State Container for JavaScript Apps
@@ -93,17 +124,32 @@ A collection of awesome things regarding the React ecosystem.
 - [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript
 - [rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 
+<!-- LOW-LEVEL AUDIT: React Styling
+Last Audited: 2025-12-25
+Status: Verified
+Items: 3
+-->
 #### React Styling
 
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 - [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 
+<!-- LOW-LEVEL AUDIT: React Routing
+Last Audited: 2025-12-25
+Status: Verified
+Items: 2
+-->
 #### React Routing
 
 - [react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [tanstack-router](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
+<!-- LOW-LEVEL AUDIT: React Development Tools
+Last Audited: 2025-12-25
+Status: Verified
+Items: 5
+-->
 #### React Development Tools
 
 - [vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
@@ -112,6 +158,11 @@ A collection of awesome things regarding the React ecosystem.
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 - [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
+<!-- LOW-LEVEL AUDIT: React Libraries
+Last Audited: 2025-12-25
+Status: Verified
+Items: 6
+-->
 #### React Libraries
 
 - [preact](https://github.com/preactjs/preact) - Fast React alternative with the same modern API
@@ -121,6 +172,11 @@ A collection of awesome things regarding the React ecosystem.
 - [downshift](https://github.com/downshift-js/downshift) - React autocomplete, combobox or select dropdown components
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - A React error boundary component that lets you catch errors
 
+<!-- LOW-LEVEL AUDIT: React Testing
+Last Audited: 2025-12-25
+Status: Verified
+Items: 4
+-->
 #### React Testing
 
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing
@@ -128,6 +184,11 @@ A collection of awesome things regarding the React ecosystem.
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
 - [playwright](https://github.com/microsoft/playwright) - A framework for Web Testing and Automation
 
+<!-- LOW-LEVEL AUDIT: React Awesome Components
+Last Audited: 2025-12-25
+Status: Verified
+Items: 16
+-->
 #### React Awesome Components
 
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
@@ -147,12 +208,22 @@ A collection of awesome things regarding the React ecosystem.
 - [puck](https://github.com/measuredco/puck) - The visual editor for React
 - [json-edit-react](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
 
+<!-- LOW-LEVEL AUDIT: React Components Sandboxes
+Last Audited: 2025-12-25
+Status: Verified
+Items: 3
+-->
 #### React Components Sandboxes
 
 - [storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 - [bit](https://github.com/teambit/bit) - A build system for development of composable software
 
+<!-- LOW-LEVEL AUDIT: React Forms
+Last Audited: 2025-12-25
+Status: Verified
+Items: 4
+-->
 #### React Forms
 
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
@@ -160,17 +231,32 @@ A collection of awesome things regarding the React ecosystem.
 - [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 - [tanstack-form](https://github.com/TanStack/form) - Headless, performant, and type-safe form state management
 
+<!-- LOW-LEVEL AUDIT: React Tables and Grids
+Last Audited: 2025-12-25
+Status: Verified
+Items: 3
+-->
 #### React Tables and Grids
 
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [tanstack-table](https://github.com/TanStack/table) - Headless UI for building powerful tables & datagrids
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
 
+<!-- LOW-LEVEL AUDIT: React Maps
+Last Audited: 2025-12-25
+Status: Verified
+Items: 2
+-->
 #### React Maps
 
 - [react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 
+<!-- LOW-LEVEL AUDIT: React Charts
+Last Audited: 2025-12-25
+Status: Verified
+Items: 6
+-->
 #### React Charts
 
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
@@ -180,6 +266,11 @@ A collection of awesome things regarding the React ecosystem.
 - [nivo](https://github.com/plouc/nivo) - Provides a rich set of data visualization components built on top of the D3 and React libraries
 - [xyflow](https://github.com/xyflow/xyflow) - A customizable React component for building node-based editors and interactive diagrams
 
+<!-- LOW-LEVEL AUDIT: React Renderers
+Last Audited: 2025-12-25
+Status: Verified
+Items: 6
+-->
 #### React Renderers
 
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
@@ -189,12 +280,22 @@ A collection of awesome things regarding the React ecosystem.
 - [react-figma](https://github.com/react-figma/react-figma) - A React renderer for Figma
 - [markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain
 
+<!-- LOW-LEVEL AUDIT: React Internationalization
+Last Audited: 2025-12-25
+Status: Verified
+Items: 3
+-->
 #### React Internationalization
 
 - [formatjs](https://github.com/formatjs/formatjs) - Internationalize your web apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
 - [react-inltayer](https://github.com/aymericzip/intlayer) - Internationalization focused on maintenability for React
 
+<!-- LOW-LEVEL AUDIT: React Graphics and Animations
+Last Audited: 2025-12-25
+Status: Verified
+Items: 6
+-->
 #### React Graphics and Animations
 
 - [react-spring](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
@@ -204,11 +305,21 @@ A collection of awesome things regarding the React ecosystem.
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 - [simple-parallax-js](https://github.com/geosigno/simpleParallax.js) - The easiest way to get a parallax effect with React and JavaScript
 
+<!-- LOW-LEVEL AUDIT: React Integration
+Last Audited: 2025-12-25
+Status: Verified
+Items: 2
+-->
 #### React Integration
 
 - [rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - A robustly typed language that compiles to efficient and human-readable JavaScript
 - [fulcro](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
 
+<!-- LOW-LEVEL AUDIT: React Real Apps
+Last Audited: 2025-12-25
+Status: Verified
+Items: 8
+-->
 #### React Real Apps
 
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - An open source platform for secure collaboration
@@ -220,8 +331,19 @@ A collection of awesome things regarding the React ecosystem.
 - [bookcars](https://github.com/aelassas/bookcars) - Car rental platform
 - [notifuse](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
 
+<!-- HIGH-LEVEL AUDIT: React Native Section
+Last Audited: 2025-12-25
+Status: Active
+Scope: All React Native-related resources and subsections
+-->
+
 ### React Native
 
+<!-- LOW-LEVEL AUDIT: React Native General Resources
+Last Audited: 2025-12-25
+Status: Verified
+Items: 4
+-->
 #### React Native General Resources
 
 - [React Native Official Website](https://reactnative.dev/)
@@ -229,15 +351,30 @@ A collection of awesome things regarding the React ecosystem.
 - [React Native Community](https://reactnative.dev/community/overview)
 - [Expo](https://expo.dev/)
 
+<!-- LOW-LEVEL AUDIT: React Native Navigation
+Last Audited: 2025-12-25
+Status: Verified
+Items: 1
+-->
 #### React Native Navigation
 
 - [react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 
+<!-- LOW-LEVEL AUDIT: React Native Awesome Components
+Last Audited: 2025-12-25
+Status: Verified
+Items: 2
+-->
 #### React Native Awesome Components
 
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
 
+<!-- LOW-LEVEL AUDIT: React Native Libraries
+Last Audited: 2025-12-25
+Status: Verified
+Items: 3
+-->
 #### React Native Libraries
 
 - [realm-js](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
